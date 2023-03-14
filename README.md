@@ -1,6 +1,6 @@
 # openchat
 
-A new Flutter project.
+Chrome Extension for Send WhatsApp messages using WhatsApp web without saving a phone number.
 
 ## Getting Started
 
